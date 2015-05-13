@@ -1,2 +1,1 @@
-# OpenWWT-Narwhal
-Source code for Narwhal, a library and demo apps for visualization of complex datasets in WorldWide Telescope.
+This repository has moved permanently to a new location: [github.com/OpenWWT/openwwt-narwhal](https://github.com/OpenWWT/openwwt-narwhal)
